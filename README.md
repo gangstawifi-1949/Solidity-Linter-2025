@@ -1,0 +1,1 @@
+# Solidity-Linter-2025
